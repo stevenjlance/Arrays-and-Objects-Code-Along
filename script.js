@@ -10,11 +10,11 @@ let favFood1 = "Pizza";
 
 
 //2. READ: Access values in the array below using index values.
-let names = ["Horlyn", "Noemi","Papa", "Melissa Ray"];
+let names = ["Khadijah", "Khadiza", "Mamadou", "Melissa-Ray", "Abdulai", "Sage", "Horlyn", "Adriana", "Moussa", "Essence", "Xavier", "Christopher", "Oscar", "Chinaza", "Noemi", "Maya", "Mecca", "Anta", "Christopher", "Kiara", "Melissa", "Alhaji", "Melanie", "Jessica", "Mouhamed", "Alyeada", "Fathym", "Chelsea", "Tennille"];
 
 
 
-//3. UPDATE: Change the 3rd student on the list to a different name.
+//3. UPDATE: Change the 3rd student on the list to a different name.	
 
 
 
@@ -35,6 +35,9 @@ let newStudent = "Chris";
 
 
 //8. Print out the current length of your list of names.
+
+
+
 
 
 
